@@ -1,0 +1,6 @@
+/* esto es para modificar todo el elemento
+*{
+    color: pink;
+}
+*/
+/*No se recomienda para nada usar las etiquetas mismas para modificar, se usan los identificadores. Un caso util seria se a todo h1 queremos ponerle algo generico, solo en ese caso si*/
